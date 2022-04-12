@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @epoeta98
 - 👀 I’m interested in Machine Learning, Data Science and Deep Learning.
-- 🌱 I’m currently learning Data Science and Engineering @PoliTO
+- 🌱 I’m currently studying Data Science and Engineering @PoliTO
 
 
 <!---
