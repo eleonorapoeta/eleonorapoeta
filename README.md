@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @epoeta98
-
-
-
-<h2> Hi there, I am Eleonora </h2>
+<h2> 👋  Hi there, I am Eleonora </h2>
 <h2 align="center"> I am a Computer Engineer currently attending the Data Science and Engineering Master Degree at Politecnico di Torino </h2>
 <p align="center">
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="60%" align="center">
