@@ -25,12 +25,8 @@ I am a Computer Engineer currently attending the Data Science and Engineering Ma
      height="40" style="vertical-align:top; margin:4px"> 
  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch"
      height="40" style="vertical-align:top; margin:4px"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql"
-     height="40" style="vertical-align:top; margin:4px"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" 
      alt="mysql" height="40" style="vertical-align:top; margin:4px"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/668px-Matlab_Logo.png"  
-     alt="Matlab" height="40" style="vertical-align:top; margin:4px"> 
   <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"  
      alt="Hadoop" height="40" style="vertical-align:top; margin:4px"> 
   <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"  
