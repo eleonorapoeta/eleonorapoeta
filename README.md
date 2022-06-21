@@ -3,7 +3,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=thetarandhiman" alt="Taran's profile views"> -->
 <br>  
 <!--Short Descriptive Para-->
-<img width="450px" align="left" height="350px" src="https://cdn.dribbble.com/users/4435100/screenshots/15114878/media/4c6a0c6609a93d143bb24302f91a8657.gif">
+<img width="450px" align="center" height="350px" src="https://cdn.dribbble.com/users/4435100/screenshots/15114878/media/4c6a0c6609a93d143bb24302f91a8657.gif">
 I am a Computer Engineer currently attending the Data Science and Engineering Master Degree at Politecnico di Torino.   
 
 <!--Learnings-->
@@ -11,6 +11,8 @@ I am a Computer Engineer currently attending the Data Science and Engineering Ma
 - 🖥️ I’m enrolled in Data Science and Engineering at Politecnico Di Torino (🇮🇹).
 - ❤️‍🔥 Passionate of Machine Learning, Data Science and Deep Learning.
 <br>
+
+
 
 ## 🚀 Languages and Tools I use:
 
