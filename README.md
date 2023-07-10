@@ -1,15 +1,19 @@
 <!--Greetings-->
-<h1 align="center">Hello<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">, I'm <b><a href="https://www.linkedin.com/in/eleonora-poeta-71a0b71a4/?locale=en_US" target="_blank">Eleonora Poeta</a></b> !</h1>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=thetarandhiman" alt="Taran's profile views"> -->
-<br>  
+<h1 align="center">Hello<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">, I'm <b><a href="https://www.linkedin.com/in/eleonora-poeta" target="_blank">Eleonora Poeta</a></b> !</h1>
+
 <!--Short Descriptive Para-->
-<img width="450px" align="center" height="350px" src="https://cdn.dribbble.com/users/4435100/screenshots/15114878/media/4c6a0c6609a93d143bb24302f91a8657.gif">
-I am a Computer Engineer currently attending the Data Science and Engineering Master Degree at Politecnico di Torino.   
+<p align="center">
+  <img src="https://camo.githubusercontent.com/374987f773148e46b1851b9e3bc4bf71b182562dd002620ef3e4263cb3997130/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966" width="450px" height="350px">
+</p>
+
+I hold a Bachelor's degree (BSc) in Computer Engineering and have recently completed a Master's degree (MSc) in Data Science and Engineering from Politecnico di Torino.
 
 <!--Learnings-->
 ## 🙋 About Me:
-- 🖥️ I’m enrolled in Data Science and Engineering at Politecnico Di Torino (🇮🇹).
-- ❤️‍🔥 Passionate of Machine Learning, Data Science and Deep Learning.
+- 🖥️ MSc in Data Science and Engineering at Politecnico Di Torino (🇮🇹).
+- ❤️‍🔥 Passionate about Data Science, Machine Learning, and Deep Learning.
+- 🔴 Currently working with a research fellowship at Politecnico Di Torino (🇮🇹)
+- 🔎 Focus on Explainable AI #XAI, #SafeAI and #TrustworthyAI. 
 <br>
 
 
@@ -19,18 +23,23 @@ I am a Computer Engineer currently attending the Data Science and Engineering Ma
 
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch"
+     height="40" style="vertical-align:top; margin:4px"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow"
+     height="40" style="vertical-align:top; margin:4px"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pands"
+     height="40" style="vertical-align:top; margin:4px">     
+<img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"  
+     alt="Numpy" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn"
+     height="40" style="vertical-align:top; margin:4px"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
      alt="Java" height="40" style="vertical-align:top; margin:4px"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn"
-     height="40" style="vertical-align:top; margin:4px"> 
- <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch"
-     height="40" style="vertical-align:top; margin:4px"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" 
      alt="mysql" height="40" style="vertical-align:top; margin:4px"> 
   <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"  
      alt="Hadoop" height="40" style="vertical-align:top; margin:4px"> 
-  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"  
-     alt="Numpy" height="40" style="vertical-align:top; margin:4px"> 
+
 </p>
 <br>
 
