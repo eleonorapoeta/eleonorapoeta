@@ -1,18 +1,13 @@
 <!--Greetings-->
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">, I'm <b><a href="https://www.linkedin.com/in/eleonora-poeta" target="_blank">Eleonora Poeta</a></b> !</h1>
 
-<!--Short Descriptive Para-->
-<p align="center">
-  <img src="https://camo.githubusercontent.com/374987f773148e46b1851b9e3bc4bf71b182562dd002620ef3e4263cb3997130/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966" width="450px" height="350px">
-</p>
 
-I hold a Bachelor's degree (BSc) in Computer Engineering and have recently completed a Master's degree (MSc) in Data Science and Engineering from Politecnico di Torino.
+Ph.D. student at Politecnico di Torino in Explainable and Trustworthy Artificial Intelligence.
 
 <!--Learnings-->
 ## 🙋 About Me:
-- 🖥️ MSc in Data Science and Engineering at Politecnico Di Torino (🇮🇹).
-- ❤️‍🔥 Passionate about Data Science, Machine Learning, and Deep Learning.
-- 🔴 Currently working with a research fellowship at Politecnico Di Torino (🇮🇹)
+- 🖥️ PhD student at Politecnico Di Torino (🇮🇹).
+- ❤️‍🔥 Passionate about Machine Learning and Deep Learning.
 - 🔎 Focus on Explainable AI #XAI, #SafeAI and #TrustworthyAI. 
 <br>
 
