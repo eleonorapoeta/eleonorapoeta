@@ -1,5 +1,5 @@
 <!--Greetings-->
-<h1 align="center">Hello<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">, I'm <b><a href="https://www.linkedin.com/in/eleonora-poeta" target="_blank">Eleonora Poeta</a></b> !</h1>
+<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">, I am <b><a href="https://www.linkedin.com/in/eleonora-poeta" target="_blank">Eleonora Poeta</a></b> !</h1>
 
 
 Ph.D. student at Politecnico di Torino in Explainable and Trustworthy Artificial Intelligence.
